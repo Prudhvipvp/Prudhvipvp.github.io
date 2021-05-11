@@ -4,7 +4,7 @@
 
 ### Work Experience 
 
-[Zeotap India Pvt. Ltd.](/pdf/Zeotap)
+[Zeotap India Pvt. Ltd.](/pdf/Zeotap.pdf)
 <br>
 Data Scientist Intern
 <br>
